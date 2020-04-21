@@ -1,0 +1,11 @@
+{
+  "name": "employee-tracker",
+  "version": "1.0.0",
+  "description": "activity for demonstrating inquirer with mysql",
+  "main": "app.js",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^6.5.2",
+    "mysql": "^2.18.1"
+  }
+}
