@@ -1,11 +1,18 @@
+
 {
   "name": "employee-tracker",
   "version": "1.0.0",
-  "description": "activity for demonstrating inquirer with mysql",
-  "main": "app.js",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
   "dependencies": {
+    "asciiart-logo": "^0.2.6",
     "console.table": "^0.10.0",
-    "inquirer": "^6.5.2",
-    "mysql": "^2.18.1"
+    "inquirer": "^7.0.0",
+    "mysql": "^2.17.1"
   }
 }
